@@ -1,0 +1,450 @@
+{
+  "states": [
+    {
+      "code": "UP",
+      "name": "Uttar Pradesh",
+      "native_name": "उत्तर प्रदेश",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "bho", "name": "Bhojpuri", "native": "भोजपुरी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "awa", "name": "Awadhi", "native": "अवधी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "MH",
+      "name": "Maharashtra",
+      "native_name": "महाराष्ट्र",
+      "primary_language": "mr-IN",
+      "languages": [
+        { "code": "mr-IN", "name": "Marathi", "native": "मराठी", "tts_lang": "mr" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "gu-IN", "name": "Gujarati", "native": "ગુજરાતી", "tts_lang": "gu" }
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Bihar",
+      "native_name": "बिहार",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "bho", "name": "Bhojpuri", "native": "भोजपुरी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "mai-IN", "name": "Maithili", "native": "मैथिली", "tts_lang": "hi" },
+        { "code": "mag", "name": "Magahi", "native": "मगही", "tts_lang": "hi", "is_dialect": true },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "WB",
+      "name": "West Bengal",
+      "native_name": "পশ্চিমবঙ্গ",
+      "primary_language": "bn-IN",
+      "languages": [
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "ne-IN", "name": "Nepali", "native": "नेपाली", "tts_lang": "ne" },
+        { "code": "sat-IN", "name": "Santali", "native": "संथाली", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "MP",
+      "name": "Madhya Pradesh",
+      "native_name": "मध्य प्रदेश",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tamil Nadu",
+      "native_name": "தமிழ்நாடு",
+      "primary_language": "ta-IN",
+      "languages": [
+        { "code": "ta-IN", "name": "Tamil", "native": "தமிழ்", "tts_lang": "ta" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te" }
+      ]
+    },
+    {
+      "code": "RJ",
+      "name": "Rajasthan",
+      "native_name": "राजस्थान",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "mwr", "name": "Rajasthani / Marwari", "native": "राजस्थानी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "KA",
+      "name": "Karnataka",
+      "native_name": "ಕರ್ನಾಟಕ",
+      "primary_language": "kn-IN",
+      "languages": [
+        { "code": "kn-IN", "name": "Kannada", "native": "ಕನ್ನಡ", "tts_lang": "kn" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" }
+      ]
+    },
+    {
+      "code": "GJ",
+      "name": "Gujarat",
+      "native_name": "ગુજરાત",
+      "primary_language": "gu-IN",
+      "languages": [
+        { "code": "gu-IN", "name": "Gujarati", "native": "ગુજરાતી", "tts_lang": "gu" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "AP",
+      "name": "Andhra Pradesh",
+      "native_name": "ఆంధ్రప్రదేశ్",
+      "primary_language": "te-IN",
+      "languages": [
+        { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "TG",
+      "name": "Telangana",
+      "native_name": "తెలంగాణ",
+      "primary_language": "te-IN",
+      "languages": [
+        { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "PB",
+      "name": "Punjab",
+      "native_name": "ਪੰਜਾਬ",
+      "primary_language": "pa-IN",
+      "languages": [
+        { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "HR",
+      "name": "Haryana",
+      "native_name": "हरियाणा",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "bgc", "name": "Haryanvi", "native": "हरियाणवी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "OD",
+      "name": "Odisha",
+      "native_name": "ଓଡ଼ିଶା",
+      "primary_language": "or-IN",
+      "languages": [
+        { "code": "or-IN", "name": "Odia", "native": "ଓଡ଼ିଆ", "tts_lang": "hi" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "sat-IN", "name": "Santali", "native": "संथाली", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "KL",
+      "name": "Kerala",
+      "native_name": "കേരളം",
+      "primary_language": "ml-IN",
+      "languages": [
+        { "code": "ml-IN", "name": "Malayalam", "native": "മലയാളം", "tts_lang": "ml" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "ta-IN", "name": "Tamil", "native": "தமிழ்", "tts_lang": "ta" }
+      ]
+    },
+    {
+      "code": "AS",
+      "name": "Assam",
+      "native_name": "অসম",
+      "primary_language": "as-IN",
+      "languages": [
+        { "code": "as-IN", "name": "Assamese", "native": "অসমীয়া", "tts_lang": "bn" },
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" },
+        { "code": "brx-IN", "name": "Bodo", "native": "बड़ो", "tts_lang": "hi" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "JH",
+      "name": "Jharkhand",
+      "native_name": "झारखंड",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "sat-IN", "name": "Santali", "native": "संथाली", "tts_lang": "hi" },
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" },
+        { "code": "bho", "name": "Bhojpuri", "native": "भोजपुरी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "CG",
+      "name": "Chhattisgarh",
+      "native_name": "छत्तीसगढ़",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "hne", "name": "Chhattisgarhi", "native": "छत्तीसगढ़ी", "tts_lang": "hi", "is_dialect": true },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "Uttarakhand",
+      "native_name": "उत्तराखंड",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "HP",
+      "name": "Himachal Pradesh",
+      "native_name": "हिमाचल प्रदेश",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Goa",
+      "native_name": "गोंय",
+      "primary_language": "kok-IN",
+      "languages": [
+        { "code": "kok-IN", "name": "Konkani", "native": "कोंकणी", "tts_lang": "mr" },
+        { "code": "mr-IN", "name": "Marathi", "native": "मराठी", "tts_lang": "mr" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "TR",
+      "name": "Tripura",
+      "native_name": "ত্রিপুরা",
+      "primary_language": "bn-IN",
+      "languages": [
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Manipur",
+      "native_name": "মণিপুর",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "mni", "name": "Manipuri (Meitei)", "native": "মৈতৈলোন্", "tts_lang": "bn" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "ML",
+      "name": "Meghalaya",
+      "native_name": "Meghalaya",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" }
+      ]
+    },
+    {
+      "code": "MZ",
+      "name": "Mizoram",
+      "native_name": "Mizoram",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "NL",
+      "name": "Nagaland",
+      "native_name": "Nagaland",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Arunachal Pradesh",
+      "native_name": "Arunachal Pradesh",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "as-IN", "name": "Assamese", "native": "অসমীয়া", "tts_lang": "bn" }
+      ]
+    },
+    {
+      "code": "SK",
+      "name": "Sikkim",
+      "native_name": "सिक्किम",
+      "primary_language": "ne-IN",
+      "languages": [
+        { "code": "ne-IN", "name": "Nepali", "native": "नेपाली", "tts_lang": "ne" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" }
+      ]
+    },
+    {
+      "code": "DL",
+      "name": "Delhi (NCT)",
+      "native_name": "दिल्ली",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" }
+      ]
+    },
+    {
+      "code": "JK",
+      "name": "Jammu & Kashmir",
+      "native_name": "جموں و کشمیر",
+      "primary_language": "ur-IN",
+      "languages": [
+        { "code": "ks-IN", "name": "Kashmiri", "native": "کٲشُر", "tts_lang": "ur" },
+        { "code": "doi-IN", "name": "Dogri", "native": "डोगरी", "tts_lang": "hi" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Ladakh",
+      "native_name": "ལ་དྭགས",
+      "primary_language": "en-IN",
+      "languages": [
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur" }
+      ]
+    },
+    {
+      "code": "PY",
+      "name": "Puducherry",
+      "native_name": "புதுச்சேரி",
+      "primary_language": "ta-IN",
+      "languages": [
+        { "code": "ta-IN", "name": "Tamil", "native": "தமிழ்", "tts_lang": "ta" },
+        { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te" },
+        { "code": "ml-IN", "name": "Malayalam", "native": "മലയാളം", "tts_lang": "ml" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "CH",
+      "name": "Chandigarh",
+      "native_name": "ਚੰਡੀਗੜ੍ਹ",
+      "primary_language": "pa-IN",
+      "languages": [
+        { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "AN",
+      "name": "Andaman & Nicobar Islands",
+      "native_name": "Andaman & Nicobar",
+      "primary_language": "hi-IN",
+      "languages": [
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn" },
+        { "code": "ta-IN", "name": "Tamil", "native": "தமிழ்", "tts_lang": "ta" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "DN",
+      "name": "Dadra & Nagar Haveli and Daman & Diu",
+      "native_name": "દાદરા અને નગર હવેલી",
+      "primary_language": "gu-IN",
+      "languages": [
+        { "code": "gu-IN", "name": "Gujarati", "native": "ગુજરાતી", "tts_lang": "gu" },
+        { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi" },
+        { "code": "mr-IN", "name": "Marathi", "native": "मराठी", "tts_lang": "mr" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    },
+    {
+      "code": "LD",
+      "name": "Lakshadweep",
+      "native_name": "ലക്ഷദ്വീപ്",
+      "primary_language": "ml-IN",
+      "languages": [
+        { "code": "ml-IN", "name": "Malayalam", "native": "മലയാളം", "tts_lang": "ml" },
+        { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en" }
+      ]
+    }
+  ],
+  "all_languages": [
+    { "code": "hi-IN", "name": "Hindi", "native": "हिन्दी", "tts_lang": "hi", "script": "Devanagari" },
+    { "code": "en-IN", "name": "English", "native": "English", "tts_lang": "en", "script": "Latin" },
+    { "code": "bn-IN", "name": "Bengali", "native": "বাংলা", "tts_lang": "bn", "script": "Bengali" },
+    { "code": "mr-IN", "name": "Marathi", "native": "मराठी", "tts_lang": "mr", "script": "Devanagari" },
+    { "code": "te-IN", "name": "Telugu", "native": "తెలుగు", "tts_lang": "te", "script": "Telugu" },
+    { "code": "ta-IN", "name": "Tamil", "native": "தமிழ்", "tts_lang": "ta", "script": "Tamil" },
+    { "code": "gu-IN", "name": "Gujarati", "native": "ગુજરાતી", "tts_lang": "gu", "script": "Gujarati" },
+    { "code": "ur-IN", "name": "Urdu", "native": "اردو", "tts_lang": "ur", "script": "Perso-Arabic" },
+    { "code": "kn-IN", "name": "Kannada", "native": "ಕನ್ನಡ", "tts_lang": "kn", "script": "Kannada" },
+    { "code": "or-IN", "name": "Odia", "native": "ଓଡ଼ିଆ", "tts_lang": "hi", "script": "Odia" },
+    { "code": "ml-IN", "name": "Malayalam", "native": "മലയാളം", "tts_lang": "ml", "script": "Malayalam" },
+    { "code": "pa-IN", "name": "Punjabi", "native": "ਪੰਜਾਬੀ", "tts_lang": "pa", "script": "Gurmukhi" },
+    { "code": "as-IN", "name": "Assamese", "native": "অসমীয়া", "tts_lang": "bn", "script": "Bengali-Assamese" },
+    { "code": "mai-IN", "name": "Maithili", "native": "मैथिली", "tts_lang": "hi", "script": "Devanagari" },
+    { "code": "sat-IN", "name": "Santali", "native": "संथाली", "tts_lang": "hi", "script": "Ol Chiki" },
+    { "code": "ks-IN", "name": "Kashmiri", "native": "کٲشُر", "tts_lang": "ur", "script": "Perso-Arabic" },
+    { "code": "ne-IN", "name": "Nepali", "native": "नेपाली", "tts_lang": "ne", "script": "Devanagari" },
+    { "code": "kok-IN", "name": "Konkani", "native": "कोंकणी", "tts_lang": "mr", "script": "Devanagari" },
+    { "code": "doi-IN", "name": "Dogri", "native": "डोगरी", "tts_lang": "hi", "script": "Devanagari" },
+    { "code": "sd-IN", "name": "Sindhi", "native": "سنڌي", "tts_lang": "hi", "script": "Perso-Arabic" },
+    { "code": "brx-IN", "name": "Bodo", "native": "बड़ो", "tts_lang": "hi", "script": "Devanagari" },
+    { "code": "sa-IN", "name": "Sanskrit", "native": "संस्कृतम्", "tts_lang": "hi", "script": "Devanagari" },
+    { "code": "bho", "name": "Bhojpuri", "native": "भोजपुरी", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" },
+    { "code": "bgc", "name": "Haryanvi", "native": "हरियाणवी", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" },
+    { "code": "mwr", "name": "Rajasthani", "native": "राजस्थानी", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" },
+    { "code": "hne", "name": "Chhattisgarhi", "native": "छत्तीसगढ़ी", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" },
+    { "code": "mag", "name": "Magahi", "native": "मगही", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" },
+    { "code": "awa", "name": "Awadhi", "native": "अवधी", "tts_lang": "hi", "is_dialect": true, "script": "Devanagari" }
+  ]
+}

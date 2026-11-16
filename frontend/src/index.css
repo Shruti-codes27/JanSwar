@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light;
+  --font-scale: 1;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #fdfbf7;
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+  font-size: calc(1rem * var(--font-scale));
+}
+
+/* Custom Scrollbar for Elderly Accessibility */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Accessible outline for keyboard navigation */
+*:focus-visible {
+  outline: 3px solid #ea580c !important;
+  outline-offset: 2px !important;
+}
+
+/* High contrast mode styles */
+.high-contrast {
+  --bg-primary: #000000;
+  --text-primary: #ffffff;
+  filter: contrast(115%);
+}
+
+/* Wave animation bars */
+.wave-bar {
+  display: inline-block;
+  width: 4px;
+  background-color: #ea580c;
+  border-radius: 2px;
+  margin: 0 2px;
+}
